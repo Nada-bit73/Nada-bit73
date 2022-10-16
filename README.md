@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my Portfolio wait for it ..**
 
-- 🌱 I’m currently starting new adventure **Freelancing !**
+- 🌱 I’m currently starting new adventure as **Freelancer !**
 
 - 📝 I regularly post on <a href="https://www.linkedin.com/in/nada-alsogour-6b93a5218/">linkedind</a>
 
