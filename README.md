@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently starting new adventure **Freelancing !**
 
-- 📝 I regularly post on <a href="https://www.linkedin.com/in/nada-alsogour-6b93a5218/](https://www.linkedin.com/in/nada-alsogour-6b93a5218/">linkedind</a>
+- 📝 I regularly post on <a href="[https://www.linkedin.com/in/nada-alsogour-6b93a5218/](https://www.linkedin.com/in/nada-alsogour-6b93a5218/](https://www.linkedin.com/in/nada-alsogour-6b93a5218/)">linkedind</a>
 
 
 - 💬 Ask me about **Java,Web development,Spring,React**
