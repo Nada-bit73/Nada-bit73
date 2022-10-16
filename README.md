@@ -1,12 +1,10 @@
 <h1 align="center">Hello! <img alt="Coder" width="50" hieght="50" src="https://media.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif">
 Welcome to Nada’s Profile</h1>
-<h3 align="center">A passionate Full Stack Developer | Web developer </h3>
+<h3 align="center">A passionate Full Stack Developer | Web developer | Freelancer</h3>
 <img align="right" alt="Coder" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nada-bit73&label=Profile%20views&color=0e75b6&style=flat" alt="nada-bit73" /> </p>
 
 - 🔭 I’m currently working on **my Portfolio wait for it ..**
-
-- 🌱 I’m currently starting new adventure as **Freelancer !**
 
 - 📝 I regularly post on <a href="https://www.linkedin.com/in/nada-alsogour-6b93a5218/">linkedind</a>
 
