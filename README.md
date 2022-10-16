@@ -15,7 +15,7 @@ Welcome to Nada’s Profile</h1>
 
 - 📫 How to reach me **nadaalsogour@gmail.com**
 
-- Knew a bout my experiance <a href="https://documentcloud.wondershare.com/clientShare/review/bpcFVoayn8Msp0rtjRcN4eyMU5c4C3ggKSo1xF9Y1PJqamvvt003Umwy-0Vv541VTKIaniTEsmtNVE8BlEjzwg">My CV</a>
+- 📝 Wanna knew a bout my experiance here is <a href="https://documentcloud.wondershare.com/clientShare/review/bpcFVoayn8Msp0rtjRcN4eyMU5c4C3ggKSo1xF9Y1PJqamvvt003Umwy-0Vv541VTKIaniTEsmtNVE8BlEjzwg">My CV</a>
 
 - ⚡ Fun fact **We all instances from human class !**
 
