@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nada Alsogour</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A passionate Full Stack Developer | Web developer </h3>
 <img align="right" alt="Coder" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nada-bit73&label=Profile%20views&color=0e75b6&style=flat" alt="nada-bit73" /> </p>
 
