@@ -4,10 +4,9 @@ Welcome to Nada’s Profile</h1>
 <img align="right" alt="Coder" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nada-bit73&label=Profile%20views&color=0e75b6&style=flat" alt="nada-bit73" /> </p>
 
-- 🔭 I’m currently working on **my Portfolio wait for it ..**
-
 - 📝 I regularly post on <a href="https://www.linkedin.com/in/nada-alsogour-6b93a5218/">linkedind</a>
 
+- ⚡ Take a look at my  <a href="https://nada-bit73.github.io/Nada-bit37.github.io/">Portfolio !</a>
 
 - 💬 Ask me about **Java,Web development,Spring,React**
 
