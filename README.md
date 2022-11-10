@@ -12,7 +12,7 @@ Welcome to Nada’s Profile</h1>
 
 - 📫 How to reach me **nadaalsogour@gmail.com**
 
-- 📝 Wanna knew a bout my experiance here is <a href="[https://1drv.ms/u/s!Ajo3LWW7x7-cddvy1TJqOYbHedo?e=WblzsG](https://1drv.ms/b/s!Am3B_O9BSfeUiFvtE9-HDcMEYgps?e=T191xs)">My CV</a>
+- 📝 Wanna knew a bout my experiance here is <a href="https://1drv.ms/u/s!Ajo3LWW7x7-cddvy1TJqOYbHedo?e=WblzsG">My CV</a>
 
 - ⚡ Fun fact **We all instances from Human class !**
 
